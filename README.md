@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] User recives visual confirmation when updating an item
+* [x] User recives visual confirmation message when updating an item
 
 ## Video Walkthrough
 
