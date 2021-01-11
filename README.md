@@ -32,8 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-Difficulty connecting to GitHub through Android Studio, had to use a token to sign in
+
+Had some technical difficulties connecting to GitHub through Android Studio, had to use a token to sign in.
 
 ## License
 
